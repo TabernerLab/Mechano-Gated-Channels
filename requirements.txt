@@ -1,0 +1,6 @@
+Numpy
+Pandas
+Scipy
+Pyqtgraph
+PyQT5
+pyqt5-tools
